@@ -11,7 +11,7 @@ describe('ONG', () => {
   afterAll(async () => {
     await connection.destroy();
   })
-
+  
   it('should be able to create a new ONG', async () => {
     const response = await request(app)
     .post('/ongs')
