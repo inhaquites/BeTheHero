@@ -1,15 +1,15 @@
 # BE THE HERO
 ## Semana Omnistack:
 
-Aplicação tem como intuito por em prática os estudos da Semana Omnistack 11.0, ministrada por [Diego Fernandes](https://github.com/diego3g) da [Rocketseat](https://github.com/Rocketseat). Criando um aplicação do zero, o **Backend** (criando api para alimentar o front e o mobile), **Frontend** (esse será de uso das ONGs, que irão cadastrar os incidentes ocorridos, esses ficarão disponíveis para os heróis possam contribuir com doações), e o **Mobile** (será de uso dos heróis, que poderão verificar qual o caso/incidente cadastrado pelas ONGs tem o interesse de contribuir - tem ligação direta com o Whatsapp, ou e-mail da ONG) . 
+Esta aplicação tem como objetivo conectar pessoas com entidades(ONGs) com a finalidade de angariar doações para causas nobres.
+
+A mesma foi desenvolvida na **Semana Omnistack 11.0**, ministrada por [Diego Fernandes](https://github.com/diego3g) e compõe backend, frontend e mobile.
 
 ---
-**Tela da aplicação**:
 
- <img width="900" height="550" src="https://raw.githubusercontent.com/dayana-sog/be-the-hero/master/assets/bethehero.jpg">
+ <img width="900" height="550" src="https://github.com/inhaquites/BeTheHero/blob/master/assets/bethehero.jpg">
 
 
-## :computer: Ferramentas Utilizadas:
 
 ## 🚀  Tecnologias
 Backend:
@@ -38,50 +38,47 @@ Mobile:
 
 Clone o repositório:
 ```sh
-$ git clone https://github.com/dayana-sog/be-the-hero
+$ git clone https://github.com/inhaquites/BeTheHero
 ```
 
-Aceda a pasta do projeto:
+Entre na pasta do projeto:
 ```sh
 $ cd be-the-hero
 ```
 Instale as dependências:
 ```sh
-$ yarn
+$ npm install
 ```
-Aceda a pasta do backend para rodar o servidor:
+Entre na pasta do backend para rodar o servidor:
 ```sh
 $ cd backend
 ```
 Inicie o servidor:
 ```sh
-$ yarn start
+$ npm start
 ```
 #### Para rodar o projeto web:
-Aceda a pasta do frontend:
+Entre na pasta do frontend:
 ```sh
 $ cd frontend
 ```
 Inicie o servidor web:
 ```sh
-$ yarn start
+$ npm start
 ```
 #### Para rodar o projeto mobile:
 
 #### Siga o passo a passo da instalação do Expo através do site: [https://docs.expo.io/versions/latest/](https://docs.expo.io/versions/latest/)
-Aceda a pasta do mobile:
+Entre na pasta do mobile:
 ```sh
 $ cd mobile
 ```
 Inicie o servidor web:
 ```sh
-$ yarn start
+$ npm start
 ```
-
-## 📝  Licença:
-
-Esse projeto está sob a licença MIT. Veja o arquivo  [LICENSE](https://github.com/dayana-sog/be-the-hero/blob/master/LICENSE.md) para mais detalhes.
 
 ----------
 
-Feito com ♥ by Dayana Gonçalves  👋 
+Rodrigo Inhaquites
+r.inhaquites@gmail.com
